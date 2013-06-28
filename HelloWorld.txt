@@ -1,0 +1,9 @@
+#Session de formation sur les outils Git/GitHub
+#Liste des utilisateurs
+
+Exercie N°1
+Félicitaitions vous avez bien cloné le repo GDGHelloWorldRepo
+Créer un fichier nommé     prenom_nom.txt au même niveau que ce fichier, 
+ajouter votre fichier au controle de version
+Mettre un commentaire dans le fichier
+Commiter le fichier
